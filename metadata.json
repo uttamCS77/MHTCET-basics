@@ -1,0 +1,6 @@
+{
+  "name": "MHT CET PCM PYQ Analytics & Smart Prep",
+  "description": "MHT CET 2022-2026 comprehensive shift-wise PYQ frequency analysis, chapter and subtopic weightage intelligence, interactive testing engine, and data exports for Physics, Chemistry, and Mathematics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
